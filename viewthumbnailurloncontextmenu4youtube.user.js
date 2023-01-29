@@ -6,6 +6,8 @@
 // @version     1.0
 // @author      sou1ka
 // @description 2020/7/9 19:44:46
+// @updateURL   https://github.com/sou1ka/viewthumbnailurloncontextmenu4youtube/raw/main/viewthumbnailurloncontextmenu4youtube.user.js
+// @downloadURL https://github.com/sou1ka/viewthumbnailurloncontextmenu4youtube/raw/main/viewthumbnailurloncontextmenu4youtube.user.js
 // ==/UserScript==
 
 
